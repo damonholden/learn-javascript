@@ -7,5 +7,9 @@
         "cmd": "node ${file}"
       }
     ]
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "",
+    "textMateRules": []
   }
 }
