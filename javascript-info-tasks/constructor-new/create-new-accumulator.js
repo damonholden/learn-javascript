@@ -15,12 +15,12 @@ function Accumulator(startingValue) {
   };
 }
 
-const balls = new Accumulator(4)
+const balls = new Accumulator(4);
 
-balls.read(7)
-balls.read(8)
-balls.read(1)
-balls.read(2)
-balls.read(1)
+balls.read(7);
+balls.read(8);
+balls.read(1);
+balls.read(2);
+balls.read(1);
 balls.read(12);
-balls.value
+balls.value;
