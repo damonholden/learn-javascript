@@ -11,3 +11,6 @@ function doesSomething() {
 		console.log(name); // name can be accessed here because `logName` has a closure
 	}
 }
+
+// a closure's Lexical environment consists of any local variables that were in
+// scope the time the closure was created.
